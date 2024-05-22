@@ -54,3 +54,50 @@ There are both demographic, behavioral, and medical risk factors.
 **Predict variable (desired target):**
 
 *TenYearCHD:* 10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”)
+
+
+**Overview:**
+
+This project aims to develop a machine learning model to predict the risk of heart disease in individuals based on various health factors and lifestyle attributes.
+Heart disease is a significant public health concern globally, and early identification of individuals at high risk can facilitate proactive interventions to prevent adverse cardiovascular events.
+
+
+
+**Project Steps:**
+
+*Data Preprocessing:* Perform data cleaning and preprocessing tasks, including handling missing values, encoding categorical variables, and scaling numerical features as necessary.
+
+*Exploratory Data Analysis (EDA):* Conduct exploratory analysis to understand the distribution of features, identify correlations between variables,
+and gain insights into potential predictors of heart disease risk.
+
+*Feature Selection:* Select relevant features that have the most significant impact on predicting heart disease risk. 
+This may involve techniques such as statistical tests, feature importance analysis, or domain knowledge.
+
+*Model Selection:* Evaluate different classification algorithms such as Logistic Regression, Decision Trees, Random Forests,Adaboost,Naive Bayes,Support Vector Machines (SVM), and K-nearest neigbhour (KNN) 
+to determine the most suitable model for the task.
+
+*Model Training:* Train the selected machine learning model on the training dataset, tuning hyperparameters as needed to optimize performance.
+
+*Model Evaluation:* Evaluate the trained model's performance using appropriate metrics such as accuracy, Confusion Matrix, precision, recall, F1-score, and ROC-AUC curve.
+
+*Model Interpretation:* Interpret the model's predictions and identify key factors contributing to the risk of heart disease. Visualize decision boundaries, 
+feature importance scores, and any other relevant insights to explain the model's behavior.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
